@@ -19,9 +19,9 @@ var path_tigerfish = "/book/tigerfish"
 
 function App() {
   return (
-    <BrowserRouter basename={process.env.PUBLIC_URL}>
+    <BrowserRouter basename={window.location.pathname || ''}>
     <Routes>
-      <Route path="/hacknite" element={<Homepage/>} ></Route> 
+      <Route path="/" element={<Homepage/>} ></Route> 
       <Route path="/login" element={<LoginPage/>}></Route>
       <Route path='/payment' element={<PaymentPage/>}></Route>
 
