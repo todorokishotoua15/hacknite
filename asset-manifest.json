@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/hacknite/static/css/main.96c1fee3.css",
+    "main.js": "/hacknite/static/js/main.89c173a5.js",
+    "static/js/787.747d6d52.chunk.js": "/hacknite/static/js/787.747d6d52.chunk.js",
+    "static/media/JT.jpg": "/hacknite/static/media/JT.8d69af0470d611692eb1.jpg",
+    "static/media/DoctorStrangeBanner.jpg": "/hacknite/static/media/DoctorStrangeBanner.dbfb2e1d3c106375ad2c.jpg",
+    "static/media/card.png": "/hacknite/static/media/card.541524e793939d01c374.png",
+    "static/media/logo.png": "/hacknite/static/media/logo.bf006b6ba78fc073cfc2.png",
+    "static/media/FantasticBeasts.jpg": "/hacknite/static/media/FantasticBeasts.45cacadf08f7247ea83d.jpg",
+    "static/media/batman_banner.jpg": "/hacknite/static/media/batman_banner.9de6bfb539a6c4de202f.jpg",
+    "static/media/SOD.jpg": "/hacknite/static/media/SOD.cd79c67aab07de829976.jpg",
+    "static/media/YN.jpg": "/hacknite/static/media/YN.88a3037c3127b452d091.jpg",
+    "static/media/SV.jfif": "/hacknite/static/media/SV.a96796c7835b1682aece.jfif",
+    "index.html": "/hacknite/index.html",
+    "main.96c1fee3.css.map": "/hacknite/static/css/main.96c1fee3.css.map",
+    "main.89c173a5.js.map": "/hacknite/static/js/main.89c173a5.js.map",
+    "787.747d6d52.chunk.js.map": "/hacknite/static/js/787.747d6d52.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96c1fee3.css",
+    "static/js/main.89c173a5.js"
+  ]
+}
