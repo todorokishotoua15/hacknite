@@ -1,0 +1,69 @@
+.main-payment{
+    background: rgb(0,0,0);
+  background: linear-gradient(86deg, rgba(0,0,0,1) 0%, rgba(32,32,32,1) 53%, rgba(80,80,80,1) 92%);
+  height : 120vh;
+}
+.logo11{
+    height: 20vh;
+    margin-left: 30%;
+}
+
+/* .nav11 {
+    height: 5%;
+} */
+
+.logo11:hover {
+    cursor: pointer;
+}
+
+.fieldname1 {
+    color: white;
+    margin-left: 35%;
+    margin-top: 2%;
+}
+
+.input1 {
+    margin-left: 5%;
+}
+
+.fieldname2 {
+    color: white;
+    margin-left: 35%;
+    margin-top: 2%;
+}
+
+.input2 {
+    margin-left: 7.7%;;
+}
+
+.fieldname3 {
+    color: white;
+    margin-left: 35%;
+    margin-top: 2%;
+}
+
+.input3 {
+    width: 10vh;
+    margin-left: 2%;
+}
+
+.fieldname4 {
+    color: white;
+    margin-left: 10.5%;
+}
+
+.input4 {
+    width: 10vh;
+    margin-left: 3%;
+}
+.fieldname5 {
+    color: #04ff11;
+    margin-left: 45%;
+    margin-top: 3%;
+}
+
+.card1 {
+    margin-top: 5%;
+    height: 30vh;
+    margin-left: 38%;
+}

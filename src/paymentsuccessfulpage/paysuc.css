@@ -1,0 +1,23 @@
+.mainpage{
+    height:120vh;
+    background: rgb(0,0,0);
+  background: linear-gradient(86deg, rgba(0,0,0,1) 0%, rgba(32,32,32,1) 53%, rgba(80,80,80,1) 92%);
+}
+.spin {
+    height: 5rem;
+    width: 5rem;
+    
+}
+
+.spindiv {
+    margin-left: 46%;
+    margin-top: 5%;
+}
+
+.loading {
+    color: white;
+    font-weight: bold;
+    margin-left: 39%;
+    margin-top: 3%;
+    font-size: xx-large;
+}

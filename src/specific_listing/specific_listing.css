@@ -1,0 +1,127 @@
+.main-App{
+    padding:0;
+    margin:0;
+    text-align : center;
+    justify-content: center;
+  }
+
+.loginbtn {
+    margin-right: 75%;
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    
+    
+  }
+.logo{
+    margin-top: 20px;
+    margin-bottom : 8px;
+    transform : scale(2,2)
+}
+.logo:hover {
+  cursor: pointer;
+}
+.black-banner{
+    background-color: black;
+    padding : 5vh;
+    
+}
+
+.movie_title{
+    color : #04ff11;
+    margin:0;
+    padding : 8px;
+    margin-top : 3vh;
+    text-align: center;
+}
+
+.btn-group-vertical{
+    display: block;
+    margin:5vmin;
+}
+.pick-timing-button{
+    width : 25vw;
+}
+
+.btn-check,.btn-outline-primary{
+    margin : 2vmin;
+}
+
+.btn-sm{
+    width: 5vw;
+    margin:1vw;
+    border-radius : 20px;
+}
+
+.picker{
+    padding-top: 5vh;
+}
+
+.trailer{
+    width : 30vw;
+    height: 20vw;
+}
+
+.timings {
+    color: white;
+    /* border: 2px solid white; */
+}
+
+.pick-timings {
+    text-align: center;
+}
+
+.pick-seats {
+    text-align: center;
+}
+
+.description{
+    color:white;
+}
+
+.deets{
+    color:#909090
+}
+
+.timing_buttons{
+    margin: 2vh;
+    border-radius: 20px;
+}
+
+.paynowbtn{
+    color: white;
+    width: 60vw;
+    margin-top: 5vh;
+    
+}
+
+.btnnn {
+    color: white;
+    
+}
+
+.btnnn:hover {
+    color: black;
+}
+.paynowbtn:hover{
+    color:black;
+}
+
+.ticket_details{
+    text-align : left;
+    
+    width : 60vw;
+    display:table;
+    margin  : auto;
+    margin-top : 5vh;
+}
+.ticket-logo{
+    width : 10vw;
+    height : auto;
+    margin-bottom : 5vh;
+    margin-left : 10vw;
+}
+
+.deetsoverall{
+    margin-top : 5vh;
+}

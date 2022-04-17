@@ -1,0 +1,36 @@
+.card{
+    background-color: #101010;
+}
+
+.center-block{
+    display: table;
+    margin: auto;
+    padding:3vh;
+  }
+  
+.card-img-top{
+    margin-left:10px;
+    height : 40vh;
+    width : 15vw;
+}
+
+.card-title{
+    color: #04ff11;
+}
+.card-text{
+    color:white;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #04ff11;
+    border-color: #04ff11;
+    font-weight: 700;
+    margin-bottom: 5vh;
+    margin-top:auto;
+}
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary {
+    color: black;
+    background-color: white;
+    border-color: #04ff11; 
+}

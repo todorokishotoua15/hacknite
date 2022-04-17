@@ -1,0 +1,16 @@
+.mainpage{
+    height:120vh;
+    background: rgb(0,0,0);
+  background: linear-gradient(86deg, rgba(0,0,0,1) 0%, rgba(32,32,32,1) 53%, rgba(80,80,80,1) 92%);
+}
+.suctitle {
+    margin-left: 44%;
+    color: white;
+    margin-top: 3%;
+}
+
+.sucsubtitle {
+    margin-left: 36%;
+    margin-top: 2%;
+    color: white;
+}

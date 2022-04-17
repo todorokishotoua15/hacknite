@@ -1,0 +1,55 @@
+.black-bg1 {
+    border: 2px solid black;
+    
+}
+.main-App{
+    background: rgb(0,0,0);
+  background: linear-gradient(86deg, rgba(0,0,0,1) 0%, rgba(32,32,32,1) 53%, rgba(80,80,80,1) 92%);
+}
+
+.nv {
+    height: 100vh;
+}
+
+.bodyy {
+    border: 2px solid white;
+    width: 35%;
+    align-items: center;
+    margin-top: 3%;
+    margin-left: 33%;
+    height: 65%;
+}
+
+.logo1 {
+    height: 20vh;
+}
+
+.logo1:hover {
+    cursor: pointer;
+}
+
+.logintitle {
+    color: #04ff11;
+    font-size: x-large;
+}
+
+.form-label {
+    color:white;
+}
+
+.form-check-label {
+    color: white;
+}
+
+.mb-3 {
+    /* border: 2px solid yellow; */
+    margin-left: 40%;
+    margin-right: 37%;
+}
+
+.sub {
+    margin-left: 2%;
+    margin-top: 2%;
+    color : white;
+
+}

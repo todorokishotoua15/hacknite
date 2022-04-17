@@ -1,0 +1,8 @@
+.text-dark{
+    color : white
+}
+
+.main-footer{
+    background: rgb(37,37,37);
+background: linear-gradient(86deg, rgba(37,37,37,1) 0%, rgba(85,82,82,1) 19%);
+  }

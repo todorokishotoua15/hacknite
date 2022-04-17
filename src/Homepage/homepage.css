@@ -1,0 +1,50 @@
+
+.main-App{
+    padding:0;
+    margin:0;
+    text-align : center;
+    justify-content: center;
+  }
+  .btn{
+    width: 10vw;
+  }
+  
+  .center-block{
+    display: table;
+    margin: auto;
+    
+  }
+  
+  .black-bg{
+    height : 200vh;
+    background: rgb(0,0,0);
+  background: linear-gradient(86deg, rgba(0,0,0,1) 0%, rgba(32,32,32,1) 53%, rgba(80,80,80,1) 92%);
+  }
+
+  .loginbtn {
+    margin-right: 75%;
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    
+    
+  }
+  .logo{
+      margin-top: 20px;
+      margin-bottom : 8px;
+      transform : scale(2,2)
+  }
+  .logo:hover {
+    cursor: pointer;
+  }
+
+   .slideshow {
+      
+      
+  } 
+
+  .d-block {
+    height: 70vh;
+  }
+
+  
